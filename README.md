@@ -58,12 +58,6 @@ gcc lex.yy.c -o ejercicio1 -lfl
 Una vez compilado el programa, se ejecuta indicando los archivos de entrada:
 
 ```bash
-./programa archivo1.txt archivo2.txt
-```
-
-Ejemplo:
-
-```bash
 ./ejercicio2 entrada1.txt entrada2.txt
 ```
 
